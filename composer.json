@@ -1,0 +1,17 @@
+{
+    "name": "cars24/php-tmpfile",
+    "description": "A convenience class for temporary files",
+    "keywords": ["files"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sandeepa Rajoriya",
+            "email": "sandeepa.rajoriya@cars24.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "mikehaertl\\tmp\\": "src/"
+        }
+    }
+}
