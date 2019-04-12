@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "mikehaertl\\tmp\\": "src/"
+            "cars24\\tmp\\": "src/"
         }
     }
 }
