@@ -1,5 +1,5 @@
 <?php
-namespace mikehaertl\tmp;
+namespace cars24\tmp;
 
 /**
  * File
